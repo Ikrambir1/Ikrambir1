@@ -3,8 +3,7 @@
 - 👋 Hi, I’m @Ikrambir
 
 I am a senior full-stack developer with over 5 years of experience in software development across various industries,
-with the 3 most recent years focused on React and TypeScript. I am well-respected amongst industry-leading companies  
-as a skilled developer who truly understands the client infrastructure and pain points. <br>
+with the 3 most recent years focused on React and TypeScript. I am well-respected amongst industry-leading companies as a skilled developer who truly understands the client infrastructure and pain points. <br>
 I am also has the hands-on, technical aptitude needed to design and build out solutions.  <br>
 
 List of my major Skills: <br>
