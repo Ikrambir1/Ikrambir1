@@ -1,4 +1,4 @@
-### React.js/React Native Developer
+### Senior Web/Game Developer
 
 - 👋 Hi, I’m @Ikrambir
 
@@ -13,6 +13,7 @@ List of my major Skills: <br>
 - GraphQL, Apollo, PostgreSQL <br>
 - Node.js, Express <br>
 - Mongodb, MySQL <br>
+- Unity3D, C# <br>
 - AWS, Firebase, Azure <br>
 
 ![Ikrambir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ikrambir1&show_icons=true&theme=radical)
